@@ -1,0 +1,1 @@
+A full-featured CMS that will work in both DB2 and mySQL based host environments.  Specifically created to make AJAX/Dojo/Zend Framework development on the iSeries more accessible to the less Javascript-proficient developers prevalent in RPG shops.
